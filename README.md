@@ -1,4 +1,4 @@
-### Olá! sou Lucas Vinicius 👋
+### Olá! 👋
 🌆 São Paulo - Brasil<br>
 🎓Cursando Análise e desenvolvimento de sistemas<br>
 📚 Estudando: Programação Orientada a Objetos <br> 
