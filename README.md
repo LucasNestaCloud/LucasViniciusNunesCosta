@@ -1,7 +1,7 @@
 ### Olá! 👋
 🌆 Moro em São Paulo - Brasil<br>
 🎓 Estou cursando Análise e desenvolvimento de sistemas - 4°Semestre<br>
-📚 Estudando: Programação Orientada a Objetos <br> 
+📚 NEVER STOP LEARNING <br> 
 🔹 Habilidades: Java, HTML, CSS, Git, Mysql<br>
 ### Me encontre aqui:
 🌐https://www.linkedin.com/in/lucas-vinicius-costa<br>
