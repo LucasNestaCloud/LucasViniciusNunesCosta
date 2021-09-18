@@ -1,4 +1,5 @@
-### Olá! 👋
+### Olá! Seja bem vindo 👋<br>
+Meu nome é Lucas Vinicius, tenho 19 anos<br>
 🌆 Moro em São Paulo - Brasil<br>
 🎓 Estou cursando Análise e desenvolvimento de sistemas - 4°Semestre<br>
 📚 NEVER STOP LEARNING <br> 
