@@ -4,7 +4,7 @@ Meu nome é Lucas Vinicius, tenho 19 anos<br>
 🎓 Estou cursando Análise e desenvolvimento de sistemas - 4°Semestre<br>
 🔹 Minhas habilidades são: Java, HTML, CSS, Git, Mysql<br>
 📚 NEVER STOP LEARNING <br>
-<div align="center" display: inline-block>
+<div style="display: inline_block">
   <a href="https://github.com/LucasViniciusNunesCosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusNunesCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusNunesCosta&layout=compact&langs_count=7&theme=dark"/>
