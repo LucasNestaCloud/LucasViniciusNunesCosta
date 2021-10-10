@@ -6,8 +6,8 @@ Meu nome é Lucas Vinicius, tenho 19 anos<br>
 📚 NEVER STOP LEARNING <br>
 <div align="center">
   <a href="https://github.com/LucasViniciusNunesCosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusNunesCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusNunesCosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ### Me encontre aqui:
 🌐https://www.linkedin.com/in/lucas-vinicius-costa<br>
