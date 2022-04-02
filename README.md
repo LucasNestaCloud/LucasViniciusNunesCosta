@@ -2,7 +2,7 @@
 Meu nome é Lucas Vinicius, tenho 19 anos<br>
 🌆 Moro em São Paulo - Brasil<br>
 🎓 Estou cursando Análise e desenvolvimento de sistemas - 5°Semestre<br>
-🔹 Minhas habilidades são: Java, HTML, CSS, Git, Mysql<br>
+🔹 Minhas habilidades são: Java, HTML, CSS, JavaScript, Git, Mysql, SQL<br>
 📚 NEVER STOP LEARNING <br>
 ### Me encontre aqui:
 🌐https://www.linkedin.com/in/lucas-vinicius-costa<br>
