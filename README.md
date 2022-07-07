@@ -1,5 +1,5 @@
 ### Olá! Seja bem vindo 👋<br>
-Meu nome é Lucas Vinicius, tenho 19 anos<br>
+Meu nome é Lucas Vinicius, tenho 20 anos<br>
 🌆 Moro em São Paulo - Brasil<br>
 🎓 Formado em Análise e desenvolvimento de sistemas<br>
 🔹 Minhas habilidades são: Java, HTML, CSS, JavaScript, Git, Mysql, SQL<br>
