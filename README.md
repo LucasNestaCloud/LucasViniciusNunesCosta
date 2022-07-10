@@ -8,8 +8,8 @@ Meu nome é Lucas Vinicius, tenho 20 anos<br>
 🌐https://www.linkedin.com/in/lucas-vinicius-costa<br>
 <div>
   <a href="https://github.com/LucasViniciusNunesCosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusNunesCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusNunesCosta&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusNunesCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusNunesCosta&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 Obrigado pela visita!!
