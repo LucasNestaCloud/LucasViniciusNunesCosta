@@ -9,7 +9,7 @@
 <h2> Me encontre aqui:</h2>
 <a>🌐https://www.linkedin.com/in/lucas-vinicius-costa</a><br>
 
-<img height="180em"align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasViniciusNunesCosta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LucasVinicius" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasViniciusNunesCosta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LucasVinicius" />
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusNunesCosta&theme=tokyonight&show_icons=true&locale=en" alt="LucasVinicius" />
 
