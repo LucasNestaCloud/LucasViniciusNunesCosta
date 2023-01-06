@@ -6,8 +6,7 @@
 🔹 Minhas habilidades são: Java, HTML, CSS, JavaScript, Git, Mysql, SQL<br>
 📚 NEVER STOP LEARNING <br>
 </div>
-## Me encontre aqui:##
-<a>🌐https://www.linkedin.com/in/lucas-vinicius-costa</a><br>
+LinkedIn<a>https://www.linkedin.com/in/lucas-vinicius-costa</a><br>
 
 <h2>Statistics</h2>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasViniciusNunesCosta&show_icons=true&locale=en&layout=compact" alt="LucasVinicius" />
