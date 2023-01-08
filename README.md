@@ -3,7 +3,7 @@
 <div class="container-informations" style:"background-color: #38bcad;">
 🌆 Moro em São Paulo - Brasil<br>
 🎓 Formado em Análise e desenvolvimento de sistemas<br>
-🔹 Minhas habilidades são: Java, HTML, CSS, JavaScript, Git, Mysql, SQL<br>
+🔹 Minhas habilidades são: Java, HTML, CSS, JavaScript, Git, Angular, Mysql, SQL<br>
 📚 NEVER STOP LEARNING <br>
 </div>
 LinkedIn <a>https://www.linkedin.com/in/lucas-vinicius-costa</a><br>
