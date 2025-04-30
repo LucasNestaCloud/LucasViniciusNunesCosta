@@ -4,7 +4,7 @@
 <div class="container-informations" style:"background-color: #38bcad;">
 🌆 Moro em São Paulo - Brasil<br>
 🎓 Sou formado em Análise e desenvolvimento de sistemas<br>
-🔹 Minhas habilidades são: HTML, CSS, JavaScript, Git, Angular, Mysql, SQL<br>
+🔹 Minhas habilidades são: Gestão de ambiente Microsoft 365, Azure, Powershell, Migração de ambientes, Estruturação de file server<br>
 📚 NEVER STOP LEARNING <br>
 </div>
 LinkedIn <a>https://www.linkedin.com/in/lucas-vinicius-costa</a><br>
