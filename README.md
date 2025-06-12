@@ -1,8 +1,7 @@
-<h1> Olá! Seja bem vindo 👋</h1><br>
+<h1>Bem vindo! 👋</h1><br>
 
-<p>Meu nome é Lucas Vinicius, tenho 21 anos</p><br>
+<p>Meu nome é Lucas Vinicius</p><br>
 <div class="container-informations" style:"background-color: #38bcad;">
-🌆 Moro em São Paulo - Brasil<br>
 🎓 Sou formado em Análise e desenvolvimento de sistemas<br>
 🔹 Minhas habilidades são: Gestão de ambiente Microsoft 365, Azure, Powershell, Migração de ambientes, Estruturação de file server<br>
 📚 NEVER STOP LEARNING <br>
@@ -15,5 +14,3 @@ LinkedIn <a>https://www.linkedin.com/in/lucas-vinicius-costa</a><br>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusNunesCosta&show_icons=true&locale=en" alt="LucasVinicius" />
 
 <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasViniciusNunesCosta" alt="LucasVinicius" />
-
-  <p>Obrigado pela visita!!</p>
