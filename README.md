@@ -137,8 +137,7 @@
 
 ### ⚡ Automação
 - Scripts PowerShell
-- Azure Automation
-- Logic Apps
+- Agents Copilot
 - Power Automate
 
 </td>
@@ -155,35 +154,6 @@
 </table>
 
 ---
-
-<div align="center">
-📚 O Que Você Encontra Aqui
-<table>
-<tr>
-<td width="50%" valign="top">
-📝 Conteúdo Disponível
-
-🔧 Scripts PowerShell - Automações prontas para M365 e Azure
-📖 Documentação - Guias práticos e boas práticas
-🔐 Segurança - Implementações de políticas e compliance
-🔄 Migração - Soluções para modernização de ambientes
-⚡ Otimização - Performance tuning e troubleshooting
-
-</td>
-<td width="50%" valign="top">
-🎯 Objetivo
-Compartilhar conhecimento prático sobre o ecossistema Microsoft, com foco em:
-
-Automação de tarefas repetitivas
-Resolução de problemas reais
-Implementação de boas práticas
-Aceleração de projetos cloud
-Otimização de ambientes corporativos
-
-</td>
-</tr>
-</table>
-</div>
 
 <div align="center">
 
