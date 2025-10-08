@@ -4,7 +4,7 @@
 
 ### ☁️ Analista Cloud | Especialista em Ecossistema Microsoft
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Microsoft+365+Specialist;Azure+Cloud+Expert;PowerShell+Automation;SharePoint+%26+Intune+Pro" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Cloud+Analyst;Microsoft+365+Specialist;Azure+Cloud;PowerShell+Automation;SharePoint+%26+Intune" alt="Typing SVG" />
 
 </div>
 
