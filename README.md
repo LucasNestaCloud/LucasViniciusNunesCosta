@@ -43,19 +43,19 @@
 <br><strong>Azure</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://www.iconfinder.com/icons/294669/microsoft_icon" width="60" height="60"/>
+<img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/microsoft-512.png" width="60" height="60"/>
 <br><strong>Microsoft 365</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://www.365akademie.de/microsoft-365-lerninhalte-integration/1200px-microsoft_office_sharepoint_2018-present-svg/" width="60" height="60"/>
+<img src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-09-512.png" width="60" height="60"/>
 <br><strong>SharePoint</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://icons8.com.br/icon/D5nuxA0qwo6w/microsoft-intune" width="60" height="60"/>
+<img src="https://img.icons8.com/?size=512&id=D5nuxA0qwo6w&format=png" width="60" height="60"/>
 <br><strong>Intune</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://commons.wikimedia.org/wiki/File:Microsoft_Entra_ID_color_icon.svg" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Microsoft_Entra_ID_color_icon.svg/2048px-Microsoft_Entra_ID_color_icon.svg.png" width="60" height="60"/>
 <br><strong>Entra ID</strong>
 </td>
 </tr>
@@ -65,19 +65,19 @@
 <br><strong>PowerShell</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://commons.wikimedia.org/wiki/File:Microsoft_Exchange_%282019-present%29.svg" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/2346px-Microsoft_Exchange_%282019-present%29.svg.png" width="60" height="60"/>
 <br><strong>Exchange Online</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width="60" height="60"/>
 <br><strong>Teams</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://worldvectorlogo.com/pt/logo/azure-active-directory-1" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory-1.svg" width="60" height="60"/>
 <br><strong>Active Directory</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://br.freepik.com/icone/automacao_12732062" width="60" height="60"/>
+<img src="https://cdn-icons-png.freepik.com/512/12732/12732062.png" width="60" height="60"/>
 <br><strong>Automação</strong>
 </td>
 </tr>
