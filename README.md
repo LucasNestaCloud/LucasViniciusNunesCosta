@@ -192,8 +192,8 @@
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusNunesCosta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&icon_color=0078D4&border_color=30363d"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusNunesCosta&layout=compact&theme=github_dark&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNestaCloud&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&icon_color=0078D4&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNestaCloud&layout=compact&theme=github_dark&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&border_color=30363d"/>
 
 </div>
 
@@ -204,7 +204,7 @@
 ## 🤝 Vamos Conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicius-costa)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasViniciusNunesCosta)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasNestaCloud)
 
 </div>
 
