@@ -43,20 +43,20 @@
 <br><strong>Azure</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="60" height="60"/>
+<img src="https://www.iconfinder.com/icons/294669/microsoft_icon" width="60" height="60"/>
 <br><strong>Microsoft 365</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://www.pngkit.com/png/full/85-852337_microsoft-sharepoint-microsoft-sharepoint-logo-png.png" width="60" height="60"/>
+<img src="https://www.365akademie.de/microsoft-365-lerninhalte-integration/1200px-microsoft_office_sharepoint_2018-present-svg/" width="60" height="60"/>
 <br><strong>SharePoint</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Intune_%282022%29.svg" width="60" height="60"/>
+<img src="https://icons8.com.br/icon/D5nuxA0qwo6w/microsoft-intune" width="60" height="60"/>
 <br><strong>Intune</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://swimburger.net/media/ppnn3pcl/azure-active-directory.png" width="60" height="60"/>
-<br><strong>Azure AD</strong>
+<img src="https://commons.wikimedia.org/wiki/File:Microsoft_Entra_ID_color_icon.svg" width="60" height="60"/>
+<br><strong>Entra ID</strong>
 </td>
 </tr>
 <tr>
@@ -65,19 +65,19 @@
 <br><strong>PowerShell</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Exchange_Server_2013_Logo.svg/2048px-Exchange_Server_2013_Logo.svg.png" width="60" height="60"/>
-<br><strong>Exchange</strong>
+<img src="https://commons.wikimedia.org/wiki/File:Microsoft_Exchange_%282019-present%29.svg" width="60" height="60"/>
+<br><strong>Exchange Online</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://www.vhv.rs/dpng/d/477-4779347_microsoft-teams-logo-png-transparent-png.png" width="60" height="60"/>
+<img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="60" height="60"/>
 <br><strong>Teams</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/2560px-Microsoft_logo_%282012%29.svg.png" width="60" height="60"/>
-<br><strong>Entra ID</strong>
+<img src="https://worldvectorlogo.com/pt/logo/azure-active-directory-1" width="60" height="60"/>
+<br><strong>Active Directory</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" height="60"/>
+<img src="https://br.freepik.com/icone/automacao_12732062" width="60" height="60"/>
 <br><strong>Automação</strong>
 </td>
 </tr>
@@ -93,7 +93,7 @@
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" valign="top">
 
@@ -215,8 +215,6 @@ Write-Host "🚀 Explore, aprenda e automatize!" -ForegroundColor Cyan
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusNunesCosta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&icon_color=0078D4&border_color=30363d"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusNunesCosta&layout=compact&theme=github_dark&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&border_color=30363d"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark&background=0d1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&border=30363d" alt="GitHub Streak"/>
 
 </div>
 
