@@ -213,8 +213,8 @@ Write-Host "🚀 Explore, aprenda e automatize!" -ForegroundColor Cyan
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&icon_color=0078D4&border_color=30363d"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusNunesCosta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&icon_color=0078D4&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusNunesCosta&layout=compact&theme=github_dark&bg_color=0d1117&title_color=0078D4&text_color=c9d1d9&border_color=30363d"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark&background=0d1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&border=30363d" alt="GitHub Streak"/>
 
@@ -226,9 +226,8 @@ Write-Host "🚀 Explore, aprenda e automatize!" -ForegroundColor Cyan
 
 ## 🤝 Vamos Conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:seu-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicius-costa)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasViniciusNunesCosta)
 
 </div>
 
